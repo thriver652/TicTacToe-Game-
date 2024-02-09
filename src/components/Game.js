@@ -49,7 +49,7 @@ const Game = () => {
     }
 
     if (!squares.includes(null)) {
-      setWinner("Tie"); // If there are no empty squares, declare a tie
+      setWinner("Tie"); // If there are no empty squares, declare  tie
     }
   };
 
